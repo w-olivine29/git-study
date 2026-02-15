@@ -1,1 +1,1 @@
-Git 충돌해결 실습
+Git 충돌해결 실습 (assignments/conflict 브랜치에서 만든 텍스트 파일을 feature/goal-update2 브랜치에서 수정)
